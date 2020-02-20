@@ -1,4 +1,4 @@
-Year,Number of employees parent company,Consolidated number of employees
+Year,Unconsolidated number of employees,Consolidated number of employees
 2007,67650,299394
 2008,69478,316121
 2009,71116,320808
@@ -7,7 +7,7 @@ Year,Number of employees parent company,Consolidated number of employees
 2012,69148,325905
 2013,68978,333498
 2014,68240,338875
-2015,,344109
+2015,70037,344109
 2016,72721,348877
 2017,73875,364445
 2018,74890,369124
