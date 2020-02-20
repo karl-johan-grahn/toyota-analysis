@@ -11,3 +11,6 @@ Toyota:
 
 Household income:
 - https://fred.stlouisfed.org/series/MEHOINUSA646N
+
+Inflation:
+- https://fred.stlouisfed.org/series/FPCPITOTLZGUSA
