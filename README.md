@@ -1,8 +1,11 @@
 # Toyota analysis
 Price elasticity of demand, sales forecast, production function
 
-Data is extracted from these pages:
+## Data sources
 
-https://global.toyota/en/company/profile/production-sales-figures/
+Toyota:
+- https://global.toyota/en/company/profile/production-sales-figures/
+- https://global.toyota/en/ir/library/annual/archives/
 
-https://fred.stlouisfed.org/series/MEHOINUSA646N
+Household income:
+- https://fred.stlouisfed.org/series/MEHOINUSA646N
